@@ -1,1 +1,3 @@
-# MachineLearningTasks
+# NAMA   : MUH NASHAR
+# NIM    : 1103194122
+# Kelas  : TK-44-G4
